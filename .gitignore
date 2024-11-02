@@ -17,6 +17,7 @@ firebase.json
 .vscode/*
 !.vscode/extensions.json
 .idea
+.firebaserc
 .firebase
 .DS_Store
 *.suo
