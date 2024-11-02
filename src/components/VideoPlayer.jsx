@@ -26,6 +26,7 @@ const VideoPlayer = ({ src, onClose }) => (
       <source src={src} type="video/mp4" />
       Your browser does not support the video tag.
     </StyledVideo>
+    <h1>thank you</h1>
   </VideoContainer>
 );
 
